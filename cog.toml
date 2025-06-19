@@ -1,9 +1,7 @@
 #tag_prefix = "{package}-"
 
 pre_package_bump_hooks = [
-  """
-    sh -c $(git rev-parse --show-toplevel)/scripts/update_chart_yaml.sh {{package}} {{version}}
-    """,
+  'sh -c "$(git rev-parse --show-toplevel)/scripts/update_chart_yaml.sh {{package}} {{version}}"'
 ]
 
 [packages]
