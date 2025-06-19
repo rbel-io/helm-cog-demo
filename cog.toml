@@ -2,7 +2,7 @@
 
 pre_package_bump_hooks = [
   """
-    sh -c ./scripts/update_chart_yaml.sh {{package}} {{version}}
+    pwd
     """,
 ]
 
