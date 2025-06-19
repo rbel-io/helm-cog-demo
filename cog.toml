@@ -1,4 +1,4 @@
-generate_mono_repository_package_tags = true
+#generate_mono_repository_package_tags = true
 tag_prefix = "{package}-"
 
 [packages.chart-a]
