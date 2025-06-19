@@ -3,7 +3,7 @@
 ## Pre hooks executed before each package bump, here we use a cargo command to bump rust package manifest
 pre_package_bump_hooks = [
     "echo 'upgrading {{package}}' to {{version}}",
-    "sh scripts/update_chart_yaml.sh {{package}} {{version}}"
+    "scripts/update_chart_yaml.sh {{package}} {{version}}"
 ]
 
 
