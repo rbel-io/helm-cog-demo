@@ -2,7 +2,7 @@
 
 pre_package_bump_hooks = [
   """
-    pwd
+    sh -c $(git rev-parse --show-toplevel)/scripts/update_chart_yaml.sh {{package}} {{version}}
     """,
 ]
 
