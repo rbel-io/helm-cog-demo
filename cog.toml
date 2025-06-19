@@ -4,8 +4,8 @@
 pre_package_bump_hooks = [
     "echo 'upgrading {{package}}' to {{version}}",
     """
-     ./scripts/update_chart_yaml.sh {{package}} {{version}}
-    """
+      sh -c ./scripts/update_chart_yaml.sh {{package}} {{version}}
+    """,
 ]
 
 
