@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## chart-a-0.2.5 - 2025-06-19
+#### Bug Fixes
+- update replicacount - (64faac9) - Michaël Breedveld
+
+- - -
+
 ## chart-a-0.2.4 - 2025-06-19
 #### Bug Fixes
 - update replica - (653750f) - Michaël Breedveld

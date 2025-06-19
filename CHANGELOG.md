@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.6 - 1970-01-01
+### Package updates
+- chart-a bumped to chart-a-0.2.5
+### Global changes
+
+- - -
+
 ## 0.2.5 - 1970-01-01
 ### Package updates
 - chart-b bumped to chart-b-0.0.2
