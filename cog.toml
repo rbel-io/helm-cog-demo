@@ -1,13 +1,10 @@
 #tag_prefix = "{package}-"
 
-## Pre hooks executed before each package bump, here we use a cargo command to bump rust package manifest
 pre_package_bump_hooks = [
-    "echo 'upgrading {{package}}' to {{version}}",
-    """
-      sh -c ./scripts/update_chart_yaml.sh {{package}} {{version}}
+  """
+    sh -c ./scripts/update_chart_yaml.sh {{package}} {{version}}
     """,
 ]
-
 
 [packages]
 chart-a = { path = "charts/chart-a", changelog_path = "charts/chart-a/CHANGELOG.md" }
