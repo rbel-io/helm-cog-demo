@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## chart-a-0.2.1 - 2025-06-19
+#### Bug Fixes
+- check bump script - (78f2acf) - Michaël Breedveld
+
+- - -
+
 ## chart-a-0.2.0 - 2025-06-19
 #### Features
 - fix replica count - (2e7922b) - Michaël Breedveld

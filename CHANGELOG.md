@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.1 - 2025-06-19
+### Package updates
+- chart-a bumped to chart-a-0.2.1
+### Global changes
+#### Bug Fixes
+- check bump script - (78f2acf) - Michaël Breedveld
+
+- - -
+
 ## 0.2.0 - 1970-01-01
 ### Package updates
 - chart-a bumped to chart-a-0.2.0
