@@ -7,3 +7,10 @@ pre_package_bump_hooks = [
 [packages]
 chart-a = { path = "charts/chart-a", changelog_path = "charts/chart-a/CHANGELOG.md" }
 chart-b = { path = "charts/chart-b", changelog_path = "charts/chart-b/CHANGELOG.md" }
+
+[changelog]
+template = "monorepo_remote"
+package_template = "package_remote"
+remote = "github.com"
+repository = "helm-cog-demo"
+owner = "rbel-io"
