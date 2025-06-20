@@ -4,7 +4,6 @@ set -e
 
 CHART_NAME=$1
 NEW_VERSION=$2
-#CHART_FILE="charts/$CHART_NAME/Chart.yaml"
 CHART_FILE="Chart.yaml"
 TMP_FILE="${CHART_FILE}.tmp"
 
