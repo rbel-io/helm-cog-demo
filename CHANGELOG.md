@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [0.2.10](https://github.com/rbel-io/helm-cog-demo/compare/59d76a1555554f496c89e7e2312a413c9ef43c6f..0.2.10) - 2025-06-20
+### Package updates
+- [chart-b-0.0.6](charts/chart-b) bumped to [chart-b-0.0.6](https://github.com/rbel-io/helm-cog-demo/compare/chart-b-0.0.5..chart-b-0.0.6)
+### Global changes
+#### Documentation
+- Revert the CHANGELOG - ([59d76a1](https://github.com/rbel-io/helm-cog-demo/commit/59d76a1555554f496c89e7e2312a413c9ef43c6f)) - Michaël Breedveld
+
+- - -
+
 ## [0.2.8](https://github.com/rbel-io/helm-cog-demo/compare/df30c10900058c597a6eaeb4a92b5616112e681a..0.2.8) - 2025-06-20
 ### Package updates
 - [chart-b-0.0.4](charts/chart-b) bumped to [chart-b-0.0.4](https://github.com/rbel-io/helm-cog-demo/compare/chart-b-0.0.3..chart-b-0.0.4)

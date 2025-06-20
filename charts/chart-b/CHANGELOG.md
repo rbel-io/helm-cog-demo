@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [chart-b-0.0.6](https://github.com/rbel-io/helm-cog-demo/compare/31d77f20216901f01a213287f5f9200e8ca0b65a..chart-b-0.0.6) - 2025-06-20
+#### Bug Fixes
+- **(chart-b)** Yes break it - ([31d77f2](https://github.com/rbel-io/helm-cog-demo/commit/31d77f20216901f01a213287f5f9200e8ca0b65a)) - Michaël Breedveld
+
+- - -
+
 ## [chart-b-0.0.5](https://github.com/rbel-io/helm-cog-demo/compare/b296be1d9b277d97683fa12bc84768da2a38fd00..chart-b-0.0.5) - 2025-06-20
 #### Bug Fixes
 - Replica fix - ([b296be1](https://github.com/rbel-io/helm-cog-demo/commit/b296be1d9b277d97683fa12bc84768da2a38fd00)) - Michaël Breedveld
